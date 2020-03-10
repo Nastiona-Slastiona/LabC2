@@ -1,0 +1,22 @@
+﻿  labTwoPartOne.c
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(82,67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(84,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(87,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(90,50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(101,26): warning C4020: form: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(113,30): warning C4020: form: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(120,30): warning C4020: form: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(181,17): warning C4133: функция: несовместимые типы - из "int *" в "float *"
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(181,20): warning C4133: функция: несовместимые типы - из "int *" в "float *"
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(181,26): warning C4020: form: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(191,17): warning C4133: функция: несовместимые типы - из "int *" в "float *"
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(191,20): warning C4133: функция: несовместимые типы - из "int *" в "float *"
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(191,26): warning C4020: form: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(236,28): warning C4020: enter: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(237,28): warning C4020: show1: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(238,34): warning C4020: show2: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(239,32): warning C4020: conjugate: слишком много фактических параметров
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(240,26): warning C4133: функция: несовместимые типы - из "float *" в "int *"
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(240,29): warning C4133: функция: несовместимые типы - из "float *" в "int *"
+C:\lab_C\2\labTwoPartOne\labTwoPartOne\labTwoPartOne.c(240,35): warning C4020: powerr: слишком много фактических параметров
+  labTwoPartOne.vcxproj -> C:\lab_C\2\labTwoPartOne\Debug\labTwoPartOne.exe
