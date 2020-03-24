@@ -1,7 +1,0 @@
-﻿  labTwopartTwo.c
-C:\lab_C\2\LabTwoPartTwo\labTwopartTwo\labTwopartTwo\labTwopartTwo.c(21,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\lab_C\2\LabTwoPartTwo\labTwopartTwo\labTwopartTwo\labTwopartTwo.c(60,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\lab_C\2\LabTwoPartTwo\labTwopartTwo\labTwopartTwo\labTwopartTwo.c(61,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\lab_C\2\LabTwoPartTwo\labTwopartTwo\labTwopartTwo\labTwopartTwo.c(65,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\lab_C\2\LabTwoPartTwo\labTwopartTwo\labTwopartTwo\labTwopartTwo.c(100,8): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
-  labTwopartTwo.vcxproj -> C:\lab_C\2\LabTwoPartTwo\labTwopartTwo\Debug\labTwopartTwo.exe
